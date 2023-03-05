@@ -1,0 +1,298 @@
+# depslib dependency file v1.0
+1520777686 source:c:\users\jordan\desktop\sdlpendu\graphics.c
+	"police.h"
+	<SDL/SDL_ttf.h>
+	"graphics.h"
+	<SDL/SDL_ttf.h>
+
+1513717206 c:\users\jordan\desktop\sdlpendu\police.h
+
+1520181785 d:\fichiers pc\codeblocks\mingw\include\sdl\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1301615163 d:\fichiers pc\codeblocks\mingw\include\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1301615163 d:\fichiers pc\codeblocks\mingw\include\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519156613 d:\fichiers pc\codeblocks\mingw\include\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1301615164 d:\fichiers pc\codeblocks\mingw\include\sdl\sdl_config.h
+	"SDL_platform.h"
+	<stdarg.h>
+
+1301615163 d:\fichiers pc\codeblocks\mingw\include\sdl\sdl_platform.h
+
+1341006780 d:\fichiers pc\codeblocks\mingw\include\sys\types.h
+	<_mingw.h>
+	<stddef.h>
+
+1341006770 d:\fichiers pc\codeblocks\mingw\include\_mingw.h
+
+1341006776 d:\fichiers pc\codeblocks\mingw\include\stdio.h
+	<_mingw.h>
+	<stddef.h>
+	<stdarg.h>
+	<sys/types.h>
+
+1341006776 d:\fichiers pc\codeblocks\mingw\include\stdlib.h
+	<_mingw.h>
+	<stddef.h>
+
+1341006774 d:\fichiers pc\codeblocks\mingw\include\malloc.h
+	<_mingw.h>
+	<stdlib.h>
+
+1341006774 d:\fichiers pc\codeblocks\mingw\include\memory.h
+	<string.h>
+
+1341006776 d:\fichiers pc\codeblocks\mingw\include\string.h
+	<_mingw.h>
+	<stddef.h>
+
+1341006776 d:\fichiers pc\codeblocks\mingw\include\strings.h
+	<string.h>
+
+1341006772 d:\fichiers pc\codeblocks\mingw\include\inttypes.h
+	<_mingw.h>
+	<stdint.h>
+	<stddef.h>
+
+1341006776 d:\fichiers pc\codeblocks\mingw\include\stdint.h
+	<stddef.h>
+
+1341006770 d:\fichiers pc\codeblocks\mingw\include\ctype.h
+	<_mingw.h>
+	<stddef.h>
+
+1096749016 d:\fichiers pc\codeblocks\mingw\include\iconv.h
+	"iconv.h"
+	<stddef.h>
+	<errno.h>
+
+1341006772 d:\fichiers pc\codeblocks\mingw\include\errno.h
+	<_mingw.h>
+
+1301615163 d:\fichiers pc\codeblocks\mingw\include\sdl\begin_code.h
+
+1301615164 d:\fichiers pc\codeblocks\mingw\include\sdl\close_code.h
+
+1301615163 d:\fichiers pc\codeblocks\mingw\include\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1301615163 d:\fichiers pc\codeblocks\mingw\include\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1301615163 d:\fichiers pc\codeblocks\mingw\include\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1301615163 d:\fichiers pc\codeblocks\mingw\include\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1301615163 d:\fichiers pc\codeblocks\mingw\include\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1341006774 d:\fichiers pc\codeblocks\mingw\include\process.h
+	<_mingw.h>
+	<sys/types.h>
+	<stdint.h>
+
+1301615163 d:\fichiers pc\codeblocks\mingw\include\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1301615163 d:\fichiers pc\codeblocks\mingw\include\sdl\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1301615163 d:\fichiers pc\codeblocks\mingw\include\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1301615163 d:\fichiers pc\codeblocks\mingw\include\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1301615163 d:\fichiers pc\codeblocks\mingw\include\sdl\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1301615163 d:\fichiers pc\codeblocks\mingw\include\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1301615163 d:\fichiers pc\codeblocks\mingw\include\sdl\sdl_keysym.h
+
+1301615163 d:\fichiers pc\codeblocks\mingw\include\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1301615163 d:\fichiers pc\codeblocks\mingw\include\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1301615163 d:\fichiers pc\codeblocks\mingw\include\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1301615163 d:\fichiers pc\codeblocks\mingw\include\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1301615163 d:\fichiers pc\codeblocks\mingw\include\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1301615163 d:\fichiers pc\codeblocks\mingw\include\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1301615163 d:\fichiers pc\codeblocks\mingw\include\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1520174340 c:\users\jordan\desktop\sdlpendu\graphics.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sys/time.h>
+	<sys/types.h>
+	<unistd.h>
+	<time.h>
+	<math.h>
+	<SDL/SDL.h>
+	"couleur.h"
+
+1341006780 d:\fichiers pc\codeblocks\mingw\include\sys\time.h
+	<time.h>
+
+1341006776 d:\fichiers pc\codeblocks\mingw\include\time.h
+	<_mingw.h>
+	<stddef.h>
+
+1341006776 d:\fichiers pc\codeblocks\mingw\include\unistd.h
+	<io.h>
+	<process.h>
+	<getopt.h>
+	<sys/types.h>
+
+1341006774 d:\fichiers pc\codeblocks\mingw\include\io.h
+	<_mingw.h>
+	<sys/types.h>
+
+1341006772 d:\fichiers pc\codeblocks\mingw\include\getopt.h
+	<_mingw.h>
+
+1341006774 d:\fichiers pc\codeblocks\mingw\include\math.h
+	<_mingw.h>
+
+1316102856 c:\users\jordan\desktop\sdlpendu\couleur.h
+
+1520777270 source:c:\users\jordan\desktop\sdlpendu\sdlpendu.c
+	<stdio.h>
+	<SDL/SDL.h>
+	"SDLPendu.h"
+	<stdbool.h>
+
+1520778742 c:\users\jordan\desktop\sdlpendu\sdlpendu.h
+	<stdio.h>
+	<string.h>
+	<SDL/SDL.h>
+	<stdbool.h>
+	"graphics.h"
+
